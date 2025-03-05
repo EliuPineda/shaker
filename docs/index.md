@@ -1,5 +1,7 @@
 # Getting Started
 
+![Descripción de la imagen](images/shaker1.jpg)
+
 Si en su poder se encuentra el Kit de experimentacion e investigacion **Platypus Shaker**, Felicitaciones! está en presencia de la mesa sismica mas portable y accequible del mercado.
 
 <div align="center">
