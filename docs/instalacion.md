@@ -1,7 +1,7 @@
 # Instalación del montaje 🛠️
 
 ##  Requisitos
-- Carga maxima: 0.5 Kg
+- Carga maxima: 1 Kg
 - La mesa debe encontrarse en una superficie nivelada.
 
 ##  Montaje

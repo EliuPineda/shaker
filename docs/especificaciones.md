@@ -10,11 +10,12 @@
 - Estructura: bioplástico termoplástico y aluminio
 
 ##  Capacidad de Carga
-- Máximo: 0.5 kg
+- Máximo: 1 kg
 
 ##  Limites
 - Frecuencia: 0.5Hz - 10Hz
-- Amplitud: 60mm
+- Amplitud: 1mm - 50mm
+- Aceleracion: 500mm/s2 - 2000mm/s2
 <br><br> **Proximamente grafica amplitud vs frecuencia admitida*
 
 ##  Componentes Electrónicos
