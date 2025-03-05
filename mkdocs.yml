@@ -1,1 +1,19 @@
 site_name: Platypus Shaker
+theme:
+  name: material
+  logo: images/logo1.jpg  # Ruta de tu nuevo ícono
+  palette:
+    scheme: slate  # Modo oscuro
+    primary: deep orange  # Cambia el color principal (verde en este caso)
+    accent: orange  # Cambia el color de acento
+
+nav:
+  - Getting Started: index.md
+  - Especificaciones Técnicas: especificaciones.md
+  - Instalación del montaje: instalacion.md
+  - Uso del Producto: uso.md
+  - Mantenimiento y Solución de Problemas: mantenimiento.md
+  - Desarrollo y Extensibilidad: desarrollo.md
+  - Seguridad: seguridad.md
+  - Contacto y Soporte: contacto.md
+  - Comprar una: ventas.md
