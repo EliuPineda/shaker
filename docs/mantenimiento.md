@@ -13,3 +13,6 @@
 
 ##  Revisión Periódica
 - Lubricar el tornillo sin fin cada 2 meses con aceite de maquina de coser.
+
+##  Garantia
+- 1 Año de Garantia por defectos de fabricacion

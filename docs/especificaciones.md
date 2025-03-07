@@ -32,3 +32,5 @@
 ##  Actualizaciones
 - OtA
 
+##  Garantia
+- 1 Año de Garantia por defectos de fabricacion
