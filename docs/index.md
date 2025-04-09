@@ -29,6 +29,30 @@ Sigue estos pasos para conectar correctamente la mesa:
 - **Crear un HotSpot**  
   **SSID:** platy  
   **Contraseña:** platy123
+
+
+<script>
+  window.onload = function () {
+    const isWindows = navigator.userAgent.indexOf('Windows') !== -1;
+    const hotspotLink = document.getElementById('hotspot-link');
+    const instructions = document.getElementById('hotspot-instructions');
+
+    if (isWindows) {
+      hotspotLink.style.display = 'inline-block';
+    } else {
+      instructions.innerHTML = 'Parece que estás usando macOS. Para compartir Internet, abre "Preferencias del Sistema" → "Compartir" → "Compartir Internet".';
+    }
+  };
+</script>
+
+<a id="hotspot-link" href="ms-settings:network-mobilehotspot" style="display:none;" class="hotspot-button">
+  Abrir configuración de Hotspot en Windows
+</a>
+
+<p id="hotspot-instructions" class="hotspot-instruction"></p>
+
+
+
 - **Encender el interruptor principal** y verificar que el indicador LED esté encendido. Una vez conectado a la red WiFi, el LED verde dejará de parpadear.
 - **Abrir el software de control**  
   En el navegador web, ir a `platyshaker.local`. Si es su primer uso, le pedirá la clave de activación, que se encuentra en la tarjeta de garantía del dispositivo.
@@ -38,3 +62,5 @@ Sigue estos pasos para conectar correctamente la mesa:
 Si la mesa no responde, revisa la sección de [Solución de Problemas](mantenimiento.md).
 
 ¡Explora la documentación para más detalles! 🚀
+
+<!--mkdocs serve -->  
