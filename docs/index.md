@@ -55,7 +55,8 @@ Sigue estos pasos para conectar correctamente la mesa:
 
 - **Encender el interruptor principal** y verificar que el indicador LED esté encendido. Una vez conectado a la red WiFi, el LED verde dejará de parpadear.
 - **Abrir el software de control**  
-  En el navegador web, ir a `platyshaker.local`. Si es su primer uso, le pedirá la clave de activación, que se encuentra en la tarjeta de garantía del dispositivo.
+  En el navegador web, ir a <a href="http://platyshaker.local" target="_blank">platyshaker.local</a>  
+  Si es su primer uso, le pedirá la clave de activación, que se encuentra en la tarjeta de garantía del dispositivo.
 - **Realizar la primera prueba**  
   Ingrese a la función sinusoidal y presione el botón **Iniciar**. La mesa realizará una calibración y centrado inicial automático antes de ejecutar la función.
 
