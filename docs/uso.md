@@ -5,8 +5,10 @@
 - **Sismos precargados**: Control mediante interfaz gráfica.
 
 ##  Interfaz de Usuario
-- Conexión a PC mediande Hot Spot WiFi *Ssid:* **platy** *Password:* **platy123**.
-- Acceso a control mediante navegador web en platyshaker.local
+- Conexión a PC mediande Hot Spot WiFi
+  **SSID:** p-sensors.com  
+  **Contraseña:** p-sensors.com123
+- Acceso a control mediante navegador web en p-shaker.local
 
 ##  Cargar y Ejecutar Simulaciones
 

@@ -2,11 +2,11 @@
 
 ![Descripción de la imagen](images/shaker1.jpg)
 
-Si en su poder se encuentra el Kit de experimentación e investigación **Platypus Shaker**, ¡Felicitaciones! Está en presencia de la mesa sísmica más portátil y accesible del mercado.
+Si en su poder se encuentra el Kit de experimentación e investigación **P-Shaker**, ¡Felicitaciones! Está en presencia de la mesa sísmica más portátil y accesible del mercado.
 
 <div style="text-align: center;">
     <span style="color: rgb(167, 255, 164);">
-        Compra tu <em>Kit educativo de experimentación e investigación Platypus Shaker</em> <br> 
+        Compra tu <em>Kit educativo de experimentación e investigación P-Shaker</em> <br> 
         <span style="color: rgb(255, 134, 35);">Por solo<span> <strong style="color: rgb(105, 255, 35);">USD $198.90</strong>
         <span style="color: rgb(255, 134, 35);"> envio Gratis Colombia (Consulta disponibilidad)</span>
     </span>
@@ -27,8 +27,8 @@ Sigue estos pasos para conectar correctamente la mesa:
 
 - **Conectar el cable de alimentación** a la fuente de 12V (incluida).
 - **Crear un HotSpot**  
-  **SSID:** platy  
-  **Contraseña:** platy123
+  **SSID:** p-sensors.com  
+  **Contraseña:** p-sensors.com123
 
 
 <script>
@@ -55,7 +55,7 @@ Sigue estos pasos para conectar correctamente la mesa:
 
 - **Encender el interruptor principal** y verificar que el indicador LED esté encendido. Una vez conectado a la red WiFi, el LED verde dejará de parpadear.
 - **Abrir el software de control**  
-  En el navegador web, ir a <a href="http://platyshaker.local" target="_blank">platyshaker.local</a>  
+  En el navegador web, ir a <a href="http://p-shaker.local" target="_blank">p-shaker.local</a>  
   Si es su primer uso, le pedirá la clave de activación, que se encuentra en la tarjeta de garantía del dispositivo.
 - **Realizar la primera prueba**  
   Ingrese a la función sinusoidal y presione el botón **Iniciar**. La mesa realizará una calibración y centrado inicial automático antes de ejecutar la función.
