@@ -3,7 +3,7 @@
 
 <div style="text-align: center;">
     <span style="color: rgb(167, 255, 164);">
-        Compra tu <em>Kit educativo de experimentación e investigación Platypus Shaker</em> <br> 
+        Compra tu <em>Kit educativo de experimentación e investigación P-Shaker</em> <br> 
         <span style="color: rgb(255, 134, 35);">Por solo<span> <strong style="color: rgb(105, 255, 35);">USD $198.90</strong>
         <span style="color: rgb(255, 134, 35);"> envio Gratis Colombia (Consulta disponibilidad)</span>
     </span>
