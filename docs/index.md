@@ -13,11 +13,14 @@ Si en su poder se encuentra el Kit de experimentación e investigación **P-Shak
 
 <div style="text-align: center;">
     <span style="color: rgb(167, 255, 164);">
-        Compra tu <em>Kit educativo de experimentación e investigación P-Shaker</em> <br> 
-        <span style="color: rgb(255, 134, 35);">Por solo<span> <strong style="color: rgb(105, 255, 35);">USD $198.90</strong>
-        <span style="color: rgb(255, 134, 35);"> envio Gratis Colombia (Consulta disponibilidad)</span>
+        ¡Lleva hoy tu <em>Kit educativo de experimentación e investigación P-Shaker</em>! <br>
+        <span style="color: rgb(255, 134, 35);">
+            Ahora en preventa: <strong style="color: rgb(105, 255, 35);">USD $198.90</strong> <span style="text-decoration: line-through; color: rgb(255, 94, 94);">USD $300</span><br>
+            <span style="color: rgb(255, 134, 35);">Envío gratis a Colombia <small>(Consulta disponibilidad)</small></span>
+        </span>
     </span>
 </div>
+
 <br>
 
 <div style="display: flex; flex-direction: row; align-items: stretch; justify-content: center; gap: 1rem; width: 100%; height: 2rem;">
