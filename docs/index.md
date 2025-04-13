@@ -1,6 +1,13 @@
 # Getting Started
 
-![Descripción de la imagen](images/shaker1.jpg)
+<div style="display: flex; justify-content: center;">
+  <video autoplay loop muted playsinline width="600">
+    <source src="videos/shaker2.mp4" type="video/mp4">
+    Tu navegador no soporta video HTML5.
+  </video>
+</div>
+
+
 
 Si en su poder se encuentra el Kit de experimentación e investigación **P-Shaker**, ¡Felicitaciones! Está en presencia de la mesa sísmica más portátil y accesible del mercado.
 
