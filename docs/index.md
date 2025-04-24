@@ -28,7 +28,7 @@ If you have the **P-Shaker Experimental & Research Kit** in your hands — congr
     <a href="https://checkout.bold.co/payment/LNK_QH2AAUN8ZB" target="_blank" style="width: 10rem; height: 100%; display: flex; background-color: white;">
         <script src="https://bold.co/library/ui-kit.js?type=slider"></script>
     </a>
-    <a href="https://api.whatsapp.com/send?phone=573167164222&text=Hi!%20%0AI%20need%20help%20with%20my%20Platypus%20Shaker%20purchase" style="background-color: rgb(255, 152, 35); color: white; text-decoration: none; font-weight: bold; border-radius: 0.9rem; width: 10rem; height: 100%; display: flex; align-items: center; justify-content: center;">
+    <a href="https://api.whatsapp.com/send?phone=573167164222&text=Hi!%20%0AI%20need%20help%20with%20my%20P-Shaker%20purchase" style="background-color: rgb(255, 152, 35); color: white; text-decoration: none; font-weight: bold; border-radius: 0.9rem; width: 10rem; height: 100%; display: flex; align-items: center; justify-content: center;">
         Need help?
     </a>
 </div>
