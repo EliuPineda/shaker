@@ -1,10 +1,10 @@
-# 📌 DISCLAIMER / EXENCIÓN DE RESPONSABILIDAD
+# 📌 DISCLAIMER
 
-Este producto es un **kit de experimentación y desarrollo**, diseñado exclusivamente para **investigación, educación y uso en laboratorios**.
+This product is an **experimental and development kit**, designed exclusively for **research, education, and laboratory use**.
 
-- 🚫 **NO está certificado** para uso comercial, industrial o aplicaciones críticas.
-- ⚠ **NO debe utilizarse** en entornos donde la seguridad humana o la integridad estructural dependan de su funcionamiento.
-- 🛠 **El usuario es responsable** de cualquier modificación, ensamblaje y uso del equipo.
-- 📜 **Este kit NO ha sido probado ni certificado** bajo normativas internacionales como CE, FCC o UL.
+- 🚫 **NOT certified** for commercial, industrial, or critical applications.
+- ⚠ **NOT to be used** in environments where human safety or structural integrity depend on its operation.
+- 🛠 **The user is responsible** for any modification, assembly, and use of the equipment.
+- 📜 **This kit has NOT been tested or certified** under international standards such as CE, FCC, or UL.
 
-**Al adquirir este producto, el usuario acepta que su uso es bajo su propio riesgo y exime al fabricante/vendedor de cualquier responsabilidad derivada de su uso inadecuado o de fallos en el dispositivo.**
+**By purchasing this product, the user acknowledges that its use is at their own risk and exempts the manufacturer/seller from any liability arising from improper use or device failure.**

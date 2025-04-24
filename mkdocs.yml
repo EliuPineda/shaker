@@ -9,11 +9,12 @@ theme:
 
 nav:
   - Getting Started: index.md
-  - Especificaciones Técnicas: especificaciones.md
-  - Instalación del montaje: instalacion.md
-  - Uso del Producto: uso.md
-  - Mantenimiento y Solución de Problemas: mantenimiento.md
-  - Desarrollo y Extensibilidad: desarrollo.md
-  - Seguridad: seguridad.md
-  - Contacto y Soporte: contacto.md
-  - Comprar una: ventas.md
+  - Technical Specifications: specs.md
+  - Assembly Installation: install.md
+  - Product Usage: usage.md
+  - Maintenance and Troubleshooting: maintenance.md
+  - Development and Extensibility: dev.md
+  - Safety: safety.md
+  - Contact and Support: support.md
+  - Purchase One: buy.md
+

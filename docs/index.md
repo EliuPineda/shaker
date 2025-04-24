@@ -2,44 +2,45 @@
 
 <div style="display: flex; justify-content: center;">
   <video autoplay loop muted playsinline width="600">
-    <source src="videos/shaker2.mp4" type="video/mp4">
-    Tu navegador no soporta video HTML5.
+    <source src="/videos/shaker2.mp4" type="video/mp4">
+    Your browser does not support HTML5 video.
   </video>
 </div>
 
-
-
-Si en su poder se encuentra el Kit de experimentación e investigación **P-Shaker**, ¡Felicitaciones! Está en presencia de la mesa sísmica más portátil y accesible del mercado.
+If you have the **P-Shaker Experimental & Research Kit** in your hands — congratulations! You now own the most portable and affordable seismic table on the market.
 
 <div style="text-align: center;">
     <span style="color: rgb(167, 255, 164);">
-        ¡Lleva hoy tu <em>Kit educativo de experimentación e investigación P-Shaker</em>! <br>
+        Get your <em>P-Shaker Educational Experimental & Research Kit</em> today! <br>
         <span style="color: rgb(255, 134, 35);">
-            Ahora en preventa: <strong style="color: rgb(105, 255, 35);">USD $198.90</strong> <span style="text-decoration: line-through; color: rgb(255, 94, 94);">USD $300</span><br>
-            <span style="color: rgb(255, 134, 35);">Envío gratis a Colombia <small>(Consulta disponibilidad)</small></span>
+            Now on pre-sale: <strong style="color: rgb(105, 255, 35);">USD $198.90</strong> <span style="text-decoration: line-through; color: rgb(255, 94, 94);">USD $300</span><br>
+            <span style="color: rgb(255, 134, 35);">Free shipping to Colombia <small>(Check availability)</small></span>
         </span>
     </span>
 </div>
 
 <br>
 
-<div style="display: flex; flex-direction: row; align-items: stretch; justify-content: center; gap: 1rem; width: 100%; height: 2rem;">
-    <a href="https://biz.payulatam.com/B0f59311D291A18" target="_blank" style="width: 10rem; height: 100%; display: flex; overflow: hidden;border-radius: 0.9rem;">
-        <img src="https://ecommerce.payulatam.com/img-secure-2015/boton_pagar_grande.png" alt="Pagar con PayU" style="width: 100%; height: 100%; object-fit: cover;">
+<div style="display: flex; flex-direction: row; align-items: stretch; justify-content: center; gap: 1rem; width: 100%; height: 3rem;">
+    <a href="https://checkout.bold.co/payment/LNK_QH2AAUN8ZB" style="background-color: rgb(35, 255, 64); color: white; text-decoration: none; font-weight: bold; border-radius: 0.9rem; width: 5rem; height: 100%; display: flex; align-items: center; justify-content: center;">
+        Pay
     </a>
-    <a href="https://api.whatsapp.com/send?phone=573167164222&text=Hola!%20%0ADeseo%20ayuda%20con%20la%20compra%20de%20Platypus%20Shaker" style="background-color: rgb(255, 116, 35); color: white; text-decoration: none; font-weight: bold; border-radius: 0.9rem; width: 5rem; height: 100%; display: flex; align-items: center; justify-content: center;">
-        Ayuda🛒 
+    <a href="https://checkout.bold.co/payment/LNK_QH2AAUN8ZB" target="_blank" style="width: 10rem; height: 100%; display: flex; background-color: white;">
+        <script src="https://bold.co/library/ui-kit.js?type=slider"></script>
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=573167164222&text=Hi!%20%0AI%20need%20help%20with%20my%20Platypus%20Shaker%20purchase" style="background-color: rgb(255, 152, 35); color: white; text-decoration: none; font-weight: bold; border-radius: 0.9rem; width: 10rem; height: 100%; display: flex; align-items: center; justify-content: center;">
+        Need help?
     </a>
 </div>
 
-## 🔌 Pasos de Conexión y Primer Uso
-Sigue estos pasos para conectar correctamente la mesa:
+## 🔌 Setup and First Use
 
-- **Conectar el cable de alimentación** a la fuente de 12V (incluida).
-- **Crear un HotSpot**  
+Follow these steps to properly set up the shaker table:
+
+- **Connect the power cable** to the included 12V power supply.
+- **Create a WiFi Hotspot**  
   **SSID:** p-sensors.com  
-  **Contraseña:** p-sensors.com123
-
+  **Password:** p-sensors.com123
 
 <script>
   window.onload = function () {
@@ -50,28 +51,27 @@ Sigue estos pasos para conectar correctamente la mesa:
     if (isWindows) {
       hotspotLink.style.display = 'inline-block';
     } else {
-      instructions.innerHTML = 'Parece que estás usando macOS. Para compartir Internet, abre "Preferencias del Sistema" → "Compartir" → "Compartir Internet".';
+      instructions.innerHTML = 'It looks like you are using macOS. To share internet, go to "System Preferences" → "Sharing" → "Internet Sharing".';
     }
   };
 </script>
 
 <a id="hotspot-link" href="ms-settings:network-mobilehotspot" style="display:none;" class="hotspot-button">
-  Abrir configuración de Hotspot en Windows
+  Open Hotspot Settings in Windows
 </a>
 
 <p id="hotspot-instructions" class="hotspot-instruction"></p>
 
+- **Turn on the main switch** and verify the LED indicator turns on. Once connected to WiFi, the green LED will stop blinking.
+- **Open the control software**  
+  In your web browser, go to <a href="http://p-shaker.local" target="_blank">p-shaker.local</a>  
+  If this is your first time, you will be asked for an activation key, which can be found on the device’s warranty card.
+- **Run your first test**  
+  Enter the sinusoidal function and click **Start**. The shaker will perform auto-calibration and centering before starting.
 
+If the table does not respond, check the [Troubleshooting](maintenance.md) section.
 
-- **Encender el interruptor principal** y verificar que el indicador LED esté encendido. Una vez conectado a la red WiFi, el LED verde dejará de parpadear.
-- **Abrir el software de control**  
-  En el navegador web, ir a <a href="http://p-shaker.local" target="_blank">p-shaker.local</a>  
-  Si es su primer uso, le pedirá la clave de activación, que se encuentra en la tarjeta de garantía del dispositivo.
-- **Realizar la primera prueba**  
-  Ingrese a la función sinusoidal y presione el botón **Iniciar**. La mesa realizará una calibración y centrado inicial automático antes de ejecutar la función.
+Explore the full documentation for more! 🚀
 
-Si la mesa no responde, revisa la sección de [Solución de Problemas](mantenimiento.md).
-
-¡Explora la documentación para más detalles! 🚀
 
 <!--mkdocs serve -->  
