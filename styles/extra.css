@@ -1,0 +1,25 @@
+/* Fondo negro real */
+body,
+.md-content,
+.md-main,
+.md-main__inner,
+.md-container,
+.md-typeset {
+  background-color: #000000 !important;
+}
+
+/* Ajusta el color del texto si es necesario */
+.md-content,
+.md-typeset {
+  color: #ffffff !important;
+}
+
+/* Color principal para componentes generales */
+:root {
+  --md-primary-fg-color: #ff5e00;
+}
+
+/* Fuerza el color de fondo de la barra superior (navbar) */
+.md-header {
+  background-color: #ff5e00 !important;
+}
