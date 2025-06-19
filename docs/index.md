@@ -53,7 +53,7 @@ Follow these steps to properly set up the shaker table:
     if (isWindows) {
       hotspotLink.style.display = 'inline-block';
     } else {
-      instructions.innerHTML = 'It looks like you are using macOS. To share internet, go to "System Preferences" → "Sharing" → "Internet Sharing".';
+      instructions.innerHTML = 'It looks like you are using Android or iOS';
     }
   };
 </script>
