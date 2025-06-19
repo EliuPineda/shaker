@@ -30,13 +30,9 @@
     <a href="https://api.whatsapp.com/send?phone=573167164222&text=Hi!%20%0AI%20need%20help%20with%20my%20P-Shaker%20purchase" style="background-color: rgba(35, 255, 64, 0.68); color: white; text-decoration: none; font-weight: bold; border-radius: 0.9rem; width: 5rem; height: 100%; display: flex; align-items: center; justify-content: center;">
         WhatsApp
     </a>
-    <a href="https://api.whatsapp.com/send?phone=573167164222&text=Hi!%20%0AI%20need%20help%20with%20my%20P-Shaker%20purchase" style="background-color: rgb(255, 152, 35); color: white; text-decoration: none; font-weight: bold; border-radius: 0.9rem; width: 5rem; height: 100%; display: flex; align-items: center; justify-content: center;">
-        Need help?
+    <a href="mailto:epargel@gmail.com" style="background-color: rgb(255, 152, 35); color: white; text-decoration: none; font-weight: bold; border-radius: 0.9rem; width: 8rem; height: 100%; display: flex; align-items: center; justify-content: center;">
+        epargel@gmail.com
     </a>
-        <a class="doc-button" href="mailto:epargel@gmail.com">
-      epargel@gmail.com
-    </a>
-
 </div>
 
 ## 🔌 Setup and First Use
