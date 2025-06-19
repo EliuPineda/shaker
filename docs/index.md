@@ -2,7 +2,7 @@
 
 <div style="position: relative; display: flex; justify-content: center;">
   <video autoplay loop muted playsinline width="600" style="z-index: 1;">
-    <source src="videos/shaker2.MOV" type="video/mp4">
+    <source src="videos/shaker2.mp4" type="video/mp4">
     Your browser does not support HTML5 video.
   </video>
 
@@ -13,7 +13,7 @@
     height: 102%;
     pointer-events: none;
     z-index: 2;
-    background: radial-gradient(circle, rgba(0, 0, 0, 0) 10%, rgb(0, 0, 0) 100%);
+    background: radial-gradient(circle, rgba(0, 0, 0, 0) 30%, rgb(0, 0, 0) 100%);
   "></div>
 </div>
 
