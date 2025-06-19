@@ -13,7 +13,7 @@
     height: 102%;
     pointer-events: none;
     z-index: 2;
-    background: radial-gradient(circle, rgba(0, 0, 0, 0) 30%, rgb(0, 0, 0) 100%);
+    background: radial-gradient(circle, rgba(0, 0, 0, 0) 100%, rgb(0, 0, 0) 100%);
   "></div>
 </div>
 
