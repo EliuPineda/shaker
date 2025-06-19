@@ -1,10 +1,20 @@
 # Getting Started
 
-<div style="display: flex; justify-content: center;">
-  <video autoplay loop muted playsinline width="600">
-    <source src="videos/shaker2.mp4" type="video/mp4">
+<div style="position: relative; display: flex; justify-content: center;">
+  <video autoplay loop muted playsinline width="600" style="z-index: 1;">
+    <source src="videos/shaker2.MOV" type="video/mp4">
     Your browser does not support HTML5 video.
   </video>
+
+  <!-- Viñeta overlay -->
+  <div style="
+    position: absolute;
+    width: 600px;
+    height: 102%;
+    pointer-events: none;
+    z-index: 2;
+    background: radial-gradient(circle, rgba(0, 0, 0, 0) 10%, rgb(0, 0, 0) 100%);
+  "></div>
 </div>
 
 If you have the **P-Shaker Experimental & Research Kit** in your hands — congratulations! You now own the most portable and affordable seismic table on the market.

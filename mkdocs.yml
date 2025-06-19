@@ -2,6 +2,7 @@ site_name: P-Shaker
 theme:
   name: material
   logo: images/logo1.jpg  # Ruta de tu nuevo ícono
+  favicon: images/logo1.jpg  # Ruta de tu nuevo favicon
   palette:
     scheme: slate  # Modo oscuro
     primary: deep orange  # Cambia el color principal (verde en este caso)
@@ -18,3 +19,5 @@ nav:
   - Contact and Support: support.md
   - Purchase One: buy.md
 
+extra_css:
+  - styles/extra.css
