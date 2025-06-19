@@ -13,31 +13,30 @@
     height: 102%;
     pointer-events: none;
     z-index: 2;
-    background: radial-gradient(circle, rgba(0, 0, 0, 0) 100%, rgb(0, 0, 0) 100%);
+    background: radial-gradient(circle, rgba(0, 0, 0, 0) 50%, rgb(0, 0, 0) 100%);
   "></div>
 </div>
 
-If you have the **P-Shaker Experimental & Research Kit** in your hands — congratulations! You now own the most portable and affordable seismic table on the market.
-
 <div style="text-align: center;">
-    <span style="color: rgb(167, 255, 164);">
-        Get your <em>P-Shaker Educational Experimental & Research Kit</em> today! <br>
+    <span style="color: rgb(255, 255, 255);">
+        You now own the most portable and affordable seismic table on the market!🚀 <br>
         <span style="color: rgb(255, 134, 35);">
             Now on pre-sale: <strong style="color: rgb(105, 255, 35);">USD $299.9</strong> <span style="text-decoration: line-through; color: rgb(255, 94, 94);">USD $500</span><br>
-            <span style="color: rgb(255, 134, 35);">Free shipping to Colombia <small></small></span>
         </span>
     </span>
 </div>
 
-<br>
-
-<div style="display: flex; flex-direction: row; align-items: stretch; justify-content: center; gap: 1rem; width: 100%; height: 3rem;">
+<div style="display: flex; flex-direction: row; align-items: stretch; justify-content: center; gap: 1rem; width: 100%; height: 1rem;">
     <a href="https://api.whatsapp.com/send?phone=573167164222&text=Hi!%20%0AI%20need%20help%20with%20my%20P-Shaker%20purchase" style="background-color: rgba(35, 255, 64, 0.68); color: white; text-decoration: none; font-weight: bold; border-radius: 0.9rem; width: 5rem; height: 100%; display: flex; align-items: center; justify-content: center;">
         WhatsApp
     </a>
     <a href="https://api.whatsapp.com/send?phone=573167164222&text=Hi!%20%0AI%20need%20help%20with%20my%20P-Shaker%20purchase" style="background-color: rgb(255, 152, 35); color: white; text-decoration: none; font-weight: bold; border-radius: 0.9rem; width: 5rem; height: 100%; display: flex; align-items: center; justify-content: center;">
         Need help?
     </a>
+        <a class="doc-button" href="mailto:epargel@gmail.com">
+      epargel@gmail.com
+    </a>
+
 </div>
 
 ## 🔌 Setup and First Use
