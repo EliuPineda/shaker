@@ -1,7 +1,7 @@
 # Contact and Support 📩
 
 ## Contact Information
-- **Email**: epargel@gmail.com
+- **Email**: team@p-sensors.com
 - **WhatsApp**: +57 316 716 4222
 
 ## Frequently Asked Questions
