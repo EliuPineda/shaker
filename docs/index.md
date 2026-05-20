@@ -76,6 +76,10 @@ Follow these steps to properly set up the shaker table:
   - `p-shaker-45f38a.local`
   - `p-motion-45f38a.local`
 
+  For software versions released in 2025 and later, simply open:
+  
+  - `p-shaker.local`
+
   If this is your first time accessing the device, you will be asked for an activation key.  
   The activation key can be found on the device’s warranty card.
 - **Run your first test**  
